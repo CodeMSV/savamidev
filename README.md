@@ -1,13 +1,42 @@
-# ¡Bienvenido a mi repositorio! 👋
+# 👋 Hi, I’m Miguel
 
-Hola, soy **Savamidev** y este es mi espacio en GitHub donde comparto proyectos, ideas...
+Welcome to my GitHub! I’m a **passionate software developer** who enjoys solving challenges with creativity, code and **COFFE**.
 
+## 🚀 Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/migueleeee/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/migueleeee) 
+- 💻 **Student of Web Development**.
+- 🎨 I enjoy mixing **clean design** with **logic code**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+Here are some of the technologies I work with:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savamidev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+Let’s connect and create something amazing together:
+- [Portfolio](https://github.com/savamidev) 🌐
+- [Istagram](https://www.instagram.com/migueleeee/)) 📸
+- [Email](migue.626@gmail.com) 📧
 
 
 
