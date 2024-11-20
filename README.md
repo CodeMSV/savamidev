@@ -11,7 +11,6 @@ Welcome to my GitHub! I’m a **passionate software developer** who enjoys solvi
 
 ## 🛠️ Tech Stack
 
-Here are some of the technologies I work with:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
