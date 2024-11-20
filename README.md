@@ -35,7 +35,7 @@ Here are some of the technologies I work with:
 
 Let’s connect and create something amazing together:
 - [Portfolio](https://github.com/savamidev) 🌐
-- [Istagram](https://www.instagram.com/migueleeee/)) 📸
+- [Istagram](https://www.instagram.com/migueleeee/) 📸
 - [Email](migue.626@gmail.com) 📧
 
 
