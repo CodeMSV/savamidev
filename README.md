@@ -55,9 +55,7 @@ Hey there! You've just landed on my GitHub, where creativity meets code, and caf
 
 🌟 Some of my top projects:
 
-- 🔹 [Project 1](https://github.com/savamidev/project1) - An exciting innovation.
-- 🔹 [Project 2](https://github.com/savamidev/project2) - A seamless integration.
-- 🔹 [Project 3](https://github.com/savamidev/project3) - Where magic happens.
+- 🔹 [Project 1](https://github.com/savamidev/BookTrack) 
 
 _(Dive in and give them a ⭐ if you enjoy them!)_
 
