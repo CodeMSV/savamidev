@@ -94,7 +94,7 @@ I am a dedicated web developer focused on merging innovative design with robust,
   <a href="https://www.instagram.com/migueleeee/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="[https://github.com/savamidev](https://savamidev.github.io/Portfolio/)" target="_blank">
+  <a href="https://savamidev.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
