@@ -1,74 +1,105 @@
-# 🚀 Welcome!
-
-Hey there! You've just landed on my GitHub, where creativity meets code, and caffeine fuels innovation. ☕✨
-
----
-
-## 👨‍💻 Who Am I?
-
-- 🎓 **Web Development Student**.
-- 🎨 A fusion of **artistic design** and **logical problem-solving**.
-- 🚀 Relentlessly learning, passionately building.
-- ☕ Transforming caffeine into elegant, efficient code.
-
----
-
-## 🛠️ My Tech Arsenal
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/XML-00618A?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Markdown-083FA1?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Mermaid-0098A1?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img height="200" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Animated Header"/>
+</div>
+
+# Greetings, I am Miguel Sánchez Vázquez  
+## Web Developer | Logical developer | Database architecture
+
+---
+
+## About Me
+
+I am a dedicated web developer focused on merging innovative design with robust, logical engineering. I excel in creating efficient, scalable, and secure digital solutions by leveraging cutting‐edge technologies and rigorous analytical thinking.
+
+---
+
+## My Tech Arsenal
+
+### Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+</div>
+
+### Frameworks
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+</div>
+
+### Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## Core Competencies
+
+### Technical Skills
+- **Web Development:** Expert in developing responsive and scalable web applications.
+- **Code Optimization:** Proficient in writing clean, efficient, and maintainable code.
+- **System Architecture:** Skilled in designing robust and secure digital infrastructures.
+- **Version Control & Deployment:** Extensive experience with Git, GitHub, and containerization tools.
+
+### Soft Skills
+- **Analytical Thinking:** Exceptional problem-solving and logical reasoning capabilities.
+- **Collaboration:** Strong team player with effective communication and interpersonal skills.
+- **Adaptability:** Quick to learn and adapt to emerging technologies and methodologies.
+- **Attention to Detail:** Committed to delivering high-quality work with precision and clarity.
+
+---
+
+## GitHub Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=savamidev&theme=onedark&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=savamidev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savamidev&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 📈 Stats That Speak
+## Professional Connections
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savamidev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savamidev&theme=radical" alt="GitHub Streak" />
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-s%C3%A1nchez-v%C3%A1zquez-639604207/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/migueleeee/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
+  <a href="[https://github.com/savamidev](https://savamidev.github.io/Portfolio/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-## 🚀 Featured Creations
+*Code. Create. Innovate.*
 
-🌟 Some of my top projects:
-
-- 🔹 [Project 1](https://github.com/savamidev/BookTrack) 
-
-_(Dive in and give them a ⭐ if you enjoy them!)_
-
----
-
-## 📬 Let's Connect
-
-🎯 Let's build something remarkable together!
-
-- 🌐 [Portfolio](https://github.com/savamidev)
-- 📸 [Instagram](https://www.instagram.com/migueleeee/)
-- 📧 [Email](mailto:migue.626@gmail.com)
-
----
-
-🔥 _Code. Create. Innovate._
