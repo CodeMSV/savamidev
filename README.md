@@ -75,9 +75,9 @@ I am a dedicated web developer focused on merging innovative design with robust,
 ## GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savamidev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMSV&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savamidev&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMSV&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
